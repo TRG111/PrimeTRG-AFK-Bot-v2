@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chutiyasasssmp.aternos.me",
-    "port": 36558,
-    "version": "1.21.11"
+    "ip": "LOYAL_SMP_1.aternos.me",
+    "port": 13328,
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
